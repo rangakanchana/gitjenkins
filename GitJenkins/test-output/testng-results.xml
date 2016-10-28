@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2016-10-28T00:21:21Z" finished-at="2016-10-28T00:21:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2016-10-28T00:21:21Z" finished-at="2016-10-28T00:21:21Z">
+      <class name="com.test.WhiteboxQa">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.WhiteboxQa@2aaf7cc2]" name="beforeSuite" is-config="true" duration-ms="15323" started-at="2016-10-27T17:21:06Z" finished-at="2016-10-27T17:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.test.WhiteboxQa@2aaf7cc2]" name="verifyTitle" duration-ms="35" started-at="2016-10-27T17:21:21Z" finished-at="2016-10-27T17:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.test.WhiteboxQa@2aaf7cc2]" name="afterSuite" is-config="true" duration-ms="1698" started-at="2016-10-27T17:21:21Z" finished-at="2016-10-27T17:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.WhiteboxQa -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
